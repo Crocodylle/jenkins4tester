@@ -10,5 +10,6 @@ pipeline {
                 sh "echo  'simulando um teste automatizado'"
             }
         }
+  
     }
 }
